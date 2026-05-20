@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+jalopy_config.py
+jalopy_snapshot.json
+CLAUDE.md
